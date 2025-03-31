@@ -1,4 +1,4 @@
-## Welcome to Coverage Labs GitHub 👋
+## Welcome to Coverage GitHub 👋
 
 ![BANNER](https://github.com/user-attachments/assets/a5fce886-2690-441e-bf01-24ee3def3025)
 
